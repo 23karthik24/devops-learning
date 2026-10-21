@@ -1,2 +1,38 @@
-# devops-learning
-My journey into Cloud and DevOps: notes and projects
+# DevOps Learning
+
+My notes, projects and progress log as I work toward a Cloud/DevOps engineering role, with a focus on Azure.
+
+## Roadmap
+
+- [ ] Networking
+- [ ] Git and GitHub
+- [ ] Python basics
+- [ ] Azure fundamentals (AZ-900)
+- [ ] Azure hands-on
+- [ ] Docker
+- [ ] GitHub Actions
+- [ ] Terraform
+- [ ] Kubernetes
+
+## Notes
+
+| Topic | Notes |
+|-------|-------|
+| Networking | [Day 1 summary](networking-notes.md) |
+| Networking | [DNS and ports](dns-and-ports.md) |
+
+## Progress log
+
+| Day | Date | Topic | Time |
+|-----|------|-------|------|
+| 1 | 21 Oct 2026 | Networking: DNS, ports, HTTP/HTTPS | 90 min |
+
+## Portfolio project
+
+One small application, built up step by step through the roadmap: containerised with Docker, deployed to Azure, with a CI/CD pipeline and infrastructure as code. Coming soon.
+
+## Approach
+
+- Short daily sessions with notes written in my own words
+- Hands-on practice for every topic
+- Documenting what failed and how I fixed it
