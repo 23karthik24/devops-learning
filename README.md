@@ -4,7 +4,7 @@ My notes, projects and progress log as I work toward a Cloud/DevOps engineering 
 
 ## Roadmap
 
-- [ ] Networking
+- [ ] Networking (in progress)
 - [ ] Git and GitHub
 - [ ] Python basics
 - [ ] Azure fundamentals (AZ-900)
@@ -16,16 +16,18 @@ My notes, projects and progress log as I work toward a Cloud/DevOps engineering 
 
 ## Notes
 
-| Topic | Notes |
-|-------|-------|
-| Networking | [Day 1 summary](networking-notes.md) |
-| Networking | [DNS and ports](dns-and-ports.md) |
+| Day | Topic | Notes |
+|-----|-------|-------|
+| 1 | Networking basics | [Day 1 summary](networking-notes.md) |
+| 1 | DNS and ports | [DNS and ports](dns-and-ports.md) |
+| 2 | IP addressing, subnets, NAT, MAC, ARP | [IP addressing](ip-addressing.md) |
 
 ## Progress log
 
 | Day | Date | Topic | Time |
 |-----|------|-------|------|
 | 1 | 21 Oct 2026 | Networking: DNS, ports, HTTP/HTTPS | 90 min |
+| 2 | 22 Oct 2026 | Networking: IP addressing, subnets, NAT, MAC, ARP | 90 min |
 
 ## Portfolio project
 
