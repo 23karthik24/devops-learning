@@ -23,7 +23,7 @@ My notes, projects and progress log as I work toward a Cloud/DevOps engineering 
 |2|IP addressing, subnets, NAT, MAC, ARP|[IP addressing](ip-addressing.md)|
 |3|Firewalls and troubleshooting|[Firewalls and troubleshooting](firewalls-and-troubleshooting.md)|
 |4|Git basics|[Git basics](git-basics.md)|
-|5|Git branches and pull requests |\[Git branches](git-branches.md)|
+|5|Git branches and pull requests |[Git branches](git-branches.md)|
 
 ## Progress log
 
