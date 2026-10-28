@@ -25,6 +25,7 @@ My notes, projects and progress log as I work toward a Cloud/DevOps engineering 
 | 4 | Git basics | [Git basics](git-basics.md) |
 | 5 | Git branches and pull requests | [Git branches](git-branches.md) |
 | 6 | Merge conflicts and .gitignore | [Merge conflicts and .gitignore](git-conflicts-and-gitignore.md) |
+| 7 | Python basics: print, variables, input | [Python basics](python-basics.md) |
 
 ## Progress log
 
@@ -36,6 +37,7 @@ My notes, projects and progress log as I work toward a Cloud/DevOps engineering 
 | 4 | 24 Oct 2026 | Git: install, clone, commit, push | 90 min |
 | 5 | 26 Oct 2026 | Git: branches and pull requests | 90 min |
 | 6 | 27 Oct 2026 | Git: merge conflicts and .gitignore | 90 min |
+| 7 | 28 Oct 2026 | Python: first scripts | 90 min |
 
 ## Portfolio project
 
