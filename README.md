@@ -5,7 +5,7 @@ My notes, projects and progress log as I work toward a Cloud/DevOps engineering 
 ## Roadmap
 
 * \[x] Networking
-* \[ ] Git and GitHub (in progress)
+* \[x] Git and GitHub
 * \[ ] Python basics
 * \[ ] Azure fundamentals (AZ-900)
 * \[ ] Azure hands-on
@@ -23,7 +23,8 @@ My notes, projects and progress log as I work toward a Cloud/DevOps engineering 
 |2|IP addressing, subnets, NAT, MAC, ARP|[IP addressing](ip-addressing.md)|
 |3|Firewalls and troubleshooting|[Firewalls and troubleshooting](firewalls-and-troubleshooting.md)|
 |4|Git basics|[Git basics](git-basics.md)|
-|5|Git branches and pull requests |[Git branches](git-branches.md)|
+|5|Git branches and pull requests|[Git branches](git-branches.md)|
+|6|Merge conflicts and .gitignore|\[Merge conflicts and .gitignore](git-conflicts-and-gitignore.md)|
 
 ## Progress log
 
@@ -33,7 +34,8 @@ My notes, projects and progress log as I work toward a Cloud/DevOps engineering 
 |2|22 Oct 2026|Networking: IP addressing, subnets, NAT, MAC, ARP|90 min|
 |3|23 Oct 2026|Networking: firewalls and troubleshooting|90 min|
 |4|24 Oct 2026|Git: install, clone, commit, push|90 min|
-|5|26 Oct 2026|Git: branches and pull requests |90 min|
+|5|26 Oct 2026|Git: branches and pull requests|90 min|
+|6|27 Oct 2026|Git: merge conflicts and .gitignore |90 min|
 
 ## Portfolio project
 
