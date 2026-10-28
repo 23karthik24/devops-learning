@@ -1,0 +1,13 @@
+# Secrets
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Logs and system files
+*.log
+Thumbs.db
