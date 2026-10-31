@@ -26,6 +26,7 @@ My notes, projects and progress log as I work toward a Cloud/DevOps engineering 
 | 5 | Git branches and pull requests | [Git branches](git-branches.md) |
 | 6 | Merge conflicts and .gitignore | [Merge conflicts and .gitignore](git-conflicts-and-gitignore.md) |
 | 7 | Python basics: print, variables, input | [Python basics](python-basics.md) |
+| 8-9 | Python: conditions and for loops | [Conditions and loops](python-conditions-and-loops.md) |
 
 ## Progress log
 
@@ -38,6 +39,8 @@ My notes, projects and progress log as I work toward a Cloud/DevOps engineering 
 | 5 | 26 Oct 2026 | Git: branches and pull requests | 90 min |
 | 6 | 27 Oct 2026 | Git: merge conflicts and .gitignore | 90 min |
 | 7 | 28 Oct 2026 | Python: first scripts | 90 min |
+| 8 | 29 Oct 2026 | Python: if, elif, else, and, or, not | 90 min |
+| 9 | 31 Oct 2026 | Python: for loops, range, running totals | 60 min |
 
 ## Portfolio project
 
